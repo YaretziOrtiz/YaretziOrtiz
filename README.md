@@ -8,7 +8,7 @@
 
 </div>
 
-## 🌸 Redes sociales
+## 🌐 Redes sociales
 
 <p align="center">
   <a href="https://github.com/YaretziOrtiz">
@@ -32,8 +32,8 @@
 
 ## 📌 Proyectos destacados
 
-🌷 🛒 Sistema de ventas con Flask
-🌷 📱 App web y móvil para Climatic
+🛒 Sistema de ventas con Flask
+📱 App web y móvil para Climatic
 
 ---
 
