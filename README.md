@@ -55,7 +55,7 @@
 
 <br><br>
 </div>
----
+
 
 ## 📌 Proyectos destacados
 
@@ -68,7 +68,6 @@
 
 <div align="center">
 
-✨ Gracias por visitar mi perfil ✨
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
 
