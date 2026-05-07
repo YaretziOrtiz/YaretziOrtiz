@@ -54,9 +54,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YaretziOrtiz&theme=github_dark&utcOffset=8" height="170em"/>
 
 <br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
-
 </div>
 ---
 
