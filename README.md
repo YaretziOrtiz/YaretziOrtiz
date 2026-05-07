@@ -37,10 +37,10 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YaretziOrtiz&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YaretziOrtiz&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117&border_color=ff69b4"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaretziOrtiz&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&border_color=ff69b4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaretziOrtiz&layout=compact&theme=radical&hide_border=true&title_color=ff69b4" />
 
 </div>
 
