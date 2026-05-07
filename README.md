@@ -1,12 +1,16 @@
 <div align="center">
 
-# ¡Hola, soy Yaretzi! 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=¡Hola,%20soy%20Yaretzi!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-💻 Desarrolladora en formación enfocada en la programación, el desarrollo web y las aplicaciones móviles.
-🚀 Disfruto crear proyectos funcionales, aprender nuevas tecnologías y convertir ideas en soluciones digitales.
+# 💕 Bienvenido/a a mi perfil 💕
 
+💻 Desarrolladora en formación enfocada en la programación, el desarrollo web y las aplicaciones móviles.  
+🚀 Disfruto crear proyectos funcionales, aprender nuevas tecnologías y convertir ideas en soluciones digitales.  
+🌸 Amante de la tecnología, el diseño y los proyectos creativos.
 
 </div>
+
+---
 
 ## 🌐 Redes sociales
 
@@ -30,15 +34,32 @@
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YaretziOrtiz&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117&border_color=ff69b4"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaretziOrtiz&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=0d1117&border_color=ff69b4"/>
+
+</div>
+
+---
+
 ## 📌 Proyectos destacados
 
-🛒 Sistema de ventas con Flask
-📱 App web y móvil para Climatic
+🛒 Sistema de ventas con Flask  
+📱 App web y móvil para Climatic  
+💾 Proyectos con MongoDB y Flutter  
+🌸 Desarrollo de interfaces modernas y funcionales
 
 ---
 
 <div align="center">
 
+✨ Gracias por visitar mi perfil ✨
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
 
 </div>
 
