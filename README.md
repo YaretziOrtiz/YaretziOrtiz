@@ -37,8 +37,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=ff69b4&height=100&section=header&text=%20Estadísticas%20de%20GitHub%20&fontSize=30&fontColor=ffffff"/>
-
 <br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YaretziOrtiz&theme=github_dark" />
