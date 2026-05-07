@@ -1,10 +1,9 @@
 <div align="center">
 
-# ¡Hola, soy Yaretzi! 🙂
+# ¡Hola, soy Yaretzi! 
 
 💻 Desarrolladora en formación enfocada en la programación, el desarrollo web y las aplicaciones móviles.
 🚀 Disfruto crear proyectos funcionales, aprender nuevas tecnologías y convertir ideas en soluciones digitales.
-
 
 
 </div>
@@ -25,6 +24,9 @@
 
 ## 💼 Tecnologías y herramientas
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,flask,java,postgres,mysql,mongodb,flutter,git,github,html,css,js" />
+</p>
 
 ---
 
@@ -37,7 +39,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=footer"/>
 
 </div>
+
 
