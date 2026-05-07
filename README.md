@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
 # ¡Hola, soy Yaretzi! 🙂
 
 💻 Desarrolladora en formación enfocada en la programación, el desarrollo web y las aplicaciones móviles.
@@ -25,10 +24,6 @@
 ---
 
 ## 💼 Tecnologías y herramientas
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,java,postgres,mysql,mongodb,flutter,git,github,html,css,js" />
-</p>
 
 
 ---
