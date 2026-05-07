@@ -36,13 +36,9 @@
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YaretziOrtiz&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaretziOrtiz&show_icons=true&theme=radical)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaretziOrtiz&layout=compact&theme=radical&hide_border=true&title_color=ff69b4" />
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaretziOrtiz&layout=compact&theme=radical)
 
 ---
 
