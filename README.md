@@ -35,9 +35,31 @@
 ---
 ## 💕 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YaretziOrtiz&theme=github_dark" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=ff69b4&height=100&section=header&text=💕%20Estadísticas%20de%20GitHub%20💕&fontSize=30&fontColor=ffffff"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YaretziOrtiz&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YaretziOrtiz&theme=github_dark" height="170em"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YaretziOrtiz&theme=github_dark" height="170em"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YaretziOrtiz&theme=github_dark" height="170em"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YaretziOrtiz&theme=github_dark&utcOffset=8" height="170em"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
+
+</div>
 ---
 
 ## 📌 Proyectos destacados
