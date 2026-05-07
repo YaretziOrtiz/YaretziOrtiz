@@ -29,15 +29,6 @@
 <img src="https://skillicons.dev/icons?i=python,flask,java,postgres,mysql,mongodb,flutter,git,github,html,css,js" />
 </p>
 
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YaretziOrtiz&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaretziOrtiz&layout=compact&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=0d1117"/>
-</p>
 
 ---
 
