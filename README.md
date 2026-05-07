@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=¡Hola,%20soy%20Yaretzi!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# 💕 Bienvenido/a a mi perfil 💕
+#  Bienvenido/a a mi perfil :)
 
 💻 Desarrolladora en formación enfocada en la programación, el desarrollo web y las aplicaciones móviles.  
 🚀 Disfruto crear proyectos funcionales, aprender nuevas tecnologías y convertir ideas en soluciones digitales.  
@@ -33,7 +33,7 @@
 </p>
 
 ---
-## 💕 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
 🛒 Sistema de ventas con Flask  
 📱 App web y móvil para Climatic  
-💾 Proyectos con MongoDB y Flutter  
+💾 Proyectos con Firebase y Flutter  
 🌸 Desarrollo de interfaces modernas y funcionales
 
 ---
