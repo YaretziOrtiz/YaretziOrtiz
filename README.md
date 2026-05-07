@@ -5,7 +5,7 @@
 💻 Desarrolladora en formación enfocada en la programación, el desarrollo web y las aplicaciones móviles.
 🚀 Disfruto crear proyectos funcionales, aprender nuevas tecnologías y convertir ideas en soluciones digitales.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header"/>
+
 
 </div>
 
