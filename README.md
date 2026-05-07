@@ -1,16 +1,23 @@
 ## Hi there 👋
 
 <!--
-**YaretziOrtiz/YaretziOrtiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola, soy Yaretzi!
+💻 Estudiante y desarrolladora apasionada por la tecnología y el desarrollo de software.
+🚀 Me gusta crear aplicaciones, además de aprender nuevas tecnologías constantemente.
 
-Here are some ideas to get you started:
+🌱 Actualmente aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💼 Tecnologías y herramientas
+Python
+Flask
+Java
+PostgreSQL
+MongoDB
+Flutter
+Git & GitHub
+HTML, CSS y JavaScript
+📌 Proyectos destacados
+📚 Sistema SEANI
+🛒 Sistema de ventas con Flask
+📱 Climatic
 -->
